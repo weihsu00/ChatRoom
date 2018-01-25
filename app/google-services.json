@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "417712783367",
+    "firebase_url": "https://super8-e0442.firebaseio.com",
+    "project_id": "super8-e0442",
+    "storage_bucket": "super8-e0442.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417712783367:android:7de6b1871dde11cb",
+        "android_client_info": {
+          "package_name": "com.example.wei.winterapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "417712783367-0h0hqkd7sutcs022no7jfi9hcqc9lrfs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3jdvOOhRXI_yMLVtaMXyUJ5BccGk5cDY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
